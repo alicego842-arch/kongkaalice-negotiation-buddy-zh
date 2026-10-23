@@ -1,7 +1,7 @@
 # 控卡Alice·谈判专家（kongkaalice-negotiation-buddy-zh）
 
 作者：**控卡Alice（kongkaAlice）**  
-版本：0.2.1  
+版本：0.2.2  
 Skill 名称：`kongkaalice-negotiation-buddy-zh`
 
 一个中文的谈判参谋和陪练 Agent Skill，帮你处理工作和生活里需要谈条件、又不好开口的事。
